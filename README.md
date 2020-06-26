@@ -12,7 +12,7 @@ An app to help guide blind people in walking.An android/ios app that can help pe
 
 >## 💻&nbsp; GETTING STARTED
 
-=> **Fork <a href=https://github.com/LetsUpgrade/FOOTESTEP-APP><img src="https://img.icons8.com/ios/24/000000/code-fork.png"></a> this repository to start contributing.**
+=> **Fork <a href=https://github.com/LetsUpgrade/FOOTSTEP-APP><img src="https://img.icons8.com/ios/24/000000/code-fork.png"></a> this repository to start contributing.**
 
 => Open your Git Bash command window and in the root directory type the following commands :
 ```bash
