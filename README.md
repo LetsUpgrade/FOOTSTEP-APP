@@ -1,6 +1,6 @@
 # **FOOTSTEP APP**
 **Project ID: 03**
->## **Project Mentors: Dhruv Mehta**
+>## **Project Mentor: Dhruv Mehta**
 >## **Co-Mentor: Abdul Basith**
 
 >## ✍&nbsp; PROJECT DESCRIPTION
