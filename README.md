@@ -41,6 +41,13 @@ Please help us follow the best practices to make it easy for the reviewer as wel
  * The pull request will not get merged until and unless the commits are squashed. In case there are multiple commits on the PR, the commit author needs to squash them by themsleves.
  * If the PR is related to any front end change, please attach relevant screenshots in the pull request description by following the pull request template.
 
+### Join the development
+
+* Before you join development, please set up the project on your local machine, run it and go through the application completely. 
+* All the issues are based on first come first serve basis.
+* If you would like to work on an issue, drop in a comment at the issue. If it is already assigned to someone, but there is no sign of any work being done, please free to drop in a comment so that the issue can be assigned to you if the previous assignee has dropped it entirely.
+
+
 ***
 
 ># 💻&nbsp; GETTING STARTED
