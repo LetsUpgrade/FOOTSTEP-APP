@@ -18,7 +18,7 @@ An app to help guide blind people in walking.An android/ios app that can help pe
 
 ***
 
->#  CONTRIBUTIONS BEST PRACTICES
+>#  :white_check_mark: CONTRIBUTIONS BEST PRACTICES
 
 ## For first time Contributors
 
