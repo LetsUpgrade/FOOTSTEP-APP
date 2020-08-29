@@ -20,6 +20,11 @@ An app to help guide blind people in walking.An android/ios app that can help pe
 
 First time contributors can read [CONTRIBUTING.md](/CONTRIBUTING.md) file for help regarding creating issues and sending pull requests.
 
+## Branch Policy
+
+* **development** All development goes on in this branch. If you're making a contribution, you are supposed to make a pull request to _development_.
+
+***
 
 >## 💻&nbsp; GETTING STARTED
 
