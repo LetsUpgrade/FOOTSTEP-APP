@@ -3,18 +3,18 @@
 >## **Project Mentor: Dhruv Mehta**
 >## **Co-Mentor: Abdul Basith**
 
->## ✍&nbsp; PROJECT DESCRIPTION
+># ✍&nbsp; PROJECT DESCRIPTION
 
 An app to help guide blind people in walking.An android/ios app that can help people with visual problems to navigate through crowd better. Phone's camera can be used to see if people are coming on a footpath and give voice instructions to user to change their direction. We can also set the field to 360 degree cameras which will help better navigation as tech gets cheaper.
 
->## 📂&nbsp; RELEVANT TECHNOLOGY
+># 📂&nbsp; RELEVANT TECHNOLOGY
 * AI/ ML 
 * Voice Assistant
 * TensorFlow
 
 ***
 
-#  Contributions Best Practices
+>#  Contributions Best Practices
 
 ### For first time Contributors
 
@@ -26,7 +26,7 @@ First time contributors can read [CONTRIBUTING.md](/CONTRIBUTING.md) file for he
 
 ***
 
->## 💻&nbsp; GETTING STARTED
+># 💻&nbsp; GETTING STARTED
 
 => **Fork <a href=https://github.com/LetsUpgrade/FOOTSTEP-APP><img src="https://img.icons8.com/ios/24/000000/code-fork.png"></a> this repository to start contributing.**
 
