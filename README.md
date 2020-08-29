@@ -12,6 +12,15 @@ An app to help guide blind people in walking.An android/ios app that can help pe
 * Voice Assistant
 * TensorFlow
 
+***
+
+#  Contributions Best Practices
+
+### For first time Contributors
+
+First time contributors can read [CONTRIBUTING.md](/CONTRIBUTING.md) file for help regarding creating issues and sending pull requests.
+
+
 >## 💻&nbsp; GETTING STARTED
 
 => **Fork <a href=https://github.com/LetsUpgrade/FOOTSTEP-APP><img src="https://img.icons8.com/ios/24/000000/code-fork.png"></a> this repository to start contributing.**
