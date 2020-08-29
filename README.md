@@ -23,6 +23,9 @@ First time contributors can read [CONTRIBUTING.md](/CONTRIBUTING.md) file for he
 ## Branch Policy
 
 * **development** All development goes on in this branch. If you're making a contribution, you are supposed to make a pull request to _development_.
+* **master** This contains main working code. After significant features/bugfixes are accumulated on development, we make an update to the master branch for release.
+
+Therefore it is requested and expected from all of you to make contribution to ____development branch____ for now and then before the final release of the app we will make it apply in the master branch.
 
 ***
 
