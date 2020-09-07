@@ -1,2 +1,6 @@
 include ':app'
+
 rootProject.name = "myapp"
+
+rootProject.name = "ML app"
+
