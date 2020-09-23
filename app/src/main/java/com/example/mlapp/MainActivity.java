@@ -13,6 +13,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import java.util.Locale;
+import android.content.Intent;
 
 import android.widget.TextView;
 import android.widget.Toast;
@@ -21,6 +22,7 @@ public class MainActivity extends Activity  implements SensorEventListener {
     TextToSpeech t1;
     EditText ed1;
     Button b1;
+    Button b2;
     private TextView textview;
     private SensorManager sensorManager;
     private Sensor proximitySensor;
@@ -32,6 +34,7 @@ public class MainActivity extends Activity  implements SensorEventListener {
         setContentView(R.layout.activity_main);
         ed1=(EditText)findViewById(R.id.editText);
         b1=(Button)findViewById(R.id.button);
+        b2=(Button)findViewById(R.id.button1);
         textview = findViewById(R.id.textView);
         sensorManager=(SensorManager) getSystemService(Context.SENSOR_SERVICE);
 
@@ -62,6 +65,17 @@ public class MainActivity extends Activity  implements SensorEventListener {
             textview.setText("proximity sensor is not avaliable");
             isProximitySensorAvailable=false;
         }
+
+
+        b2.setOnClickListener(new View.OnClickListener()
+        {
+            public void onClick(View v)
+            {
+                startActivity(new Intent(getApplicationContext(),Objectdetection.class));
+           /* if you want to finish the first activity then just call
+            finish(); */
+            }
+        });
 
     }
 
