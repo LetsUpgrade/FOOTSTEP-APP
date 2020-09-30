@@ -3,11 +3,15 @@ package com.example.mlapp;
 
 import android.app.Activity;
 
+import android.content.Context;
 import android.hardware.Sensor;
 import android.hardware.SensorEvent;
 import android.hardware.SensorEventListener;
 import android.hardware.SensorManager;
+import android.os.Build;
 import android.os.Bundle;
+import android.os.VibrationEffect;
+import android.os.Vibrator;
 import android.speech.tts.TextToSpeech;
 import android.view.View;
 import android.widget.Button;
@@ -24,6 +28,7 @@ public class MainActivity extends Activity   {
     Button b1;
     Button b2;
     private TextView textview;
+    private Vibrator vibrator;
 
     private SensorManager sensorManager;
     private Sensor proximitySensor;
@@ -39,7 +44,7 @@ public class MainActivity extends Activity   {
         textview = findViewById(R.id.textView);
         sensorManager=(SensorManager) getSystemService(SENSOR_SERVICE);
         proximitySensor=sensorManager.getDefaultSensor(Sensor.TYPE_PROXIMITY);
-
+        vibrator= (Vibrator) getSystemService(Context.VIBRATOR_SERVICE);
         t1=new TextToSpeech(getApplicationContext(), new TextToSpeech.OnInitListener() {
             @Override
             public void onInit(int status) {
@@ -69,6 +74,11 @@ public class MainActivity extends Activity   {
                     ed1.setText("Object ahead");
 //                    b1.setEnabled(true);
                     speakOut();
+                    if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
+                        vibrator.vibrate(VibrationEffect.createOneShot(500,VibrationEffect.DEFAULT_AMPLITUDE));
+                    }
+                    else
+                    {vibrator.vibrate(500);}
                 } else {
                     ed1.setText(" ");
 //                    ed1.setText(sensorEvent.values[0]+" cm");
