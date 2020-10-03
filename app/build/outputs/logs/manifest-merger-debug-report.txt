@@ -1,0 +1,207 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:2:1-45:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\86e1e5d883ec66c1063a0d9a82a27792\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\bf96d2b5a86ecd602a621e7e96856420\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [org.tensorflow:tensorflow-android:1.13.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d931bc12679ccbcb807442cef6d06529\tensorflow-android-1.13.1\AndroidManifest.xml:2:1-8:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\12c076570219bdc2a11e9d0df335391a\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ee9b51f71825564f346013ea1d4d0318\appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\4c1ade53cc4b20d7bc631ac17d3bfca4\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ebc8011c39d26c440b76466a9b971345\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2118a7099009bdd29f0289728ee82c0d\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\f52c60a67eb4c2183a64b296ae574169\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\32488318cfc756fa0f6ae91e625fa530\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\0878a65179abd6a1b5016c6981bce614\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d1ea25f3382273eed14315b543469208\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ae3468b444d41a56f261ecbb8448fe17\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\7c0677be8011741026309ef690a9f4db\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\67aa86ef8808cac41aa5afe6d271f3ea\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\098c479f6892902db16f6d5e04f3818b\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\8cf26fd0d5f767ad6dfe1019ab25b952\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\86f8c8e32c7613bbe5e86eb4377e9413\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\bcf856ddfeb04b3b73ed182739910d39\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c6f1e76c078a7e4f5288325854cab247\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\7282e00d74c6a6acf53f4bfd68421266\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\73114719268a97e9fd391905563b2ee9\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:2:1-45:12
+	package
+		ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:4:5-32
+		INJECTED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml
+		INJECTED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml
+		ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:2:1-45:12
+		INJECTED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml
+		ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:2:1-45:12
+		INJECTED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:2:11-69
+	tools:ignore
+		ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:5:5-43
+uses-permission#android.permission.CAMERA
+ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:7:22-62
+uses-feature#android.hardware.camera
+ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:9:5-84
+	android:required
+		ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:9:58-82
+	android:name
+		ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:9:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:10:5-95
+	android:required
+		ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:10:68-92
+	android:name
+		ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:10:19-67
+uses-feature#android.software.leanback
+ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:11:5-87
+	android:required
+		ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:11:60-84
+	android:name
+		ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:11:19-59
+uses-feature#android.hardware.touchscreen
+ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:12:5-14:36
+	android:required
+		ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:14:9-33
+	android:name
+		ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:13:9-52
+uses-permission#android.permission.VIBRATE
+ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:16:5-66
+	android:name
+		ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:16:22-63
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:17:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:18:5-71
+	android:name
+		ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:18:22-68
+application
+ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:21:5-43:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\86e1e5d883ec66c1063a0d9a82a27792\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\86e1e5d883ec66c1063a0d9a82a27792\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-android:1.13.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d931bc12679ccbcb807442cef6d06529\tensorflow-android-1.13.1\AndroidManifest.xml:5:5-6:19
+MERGED from [org.tensorflow:tensorflow-android:1.13.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d931bc12679ccbcb807442cef6d06529\tensorflow-android-1.13.1\AndroidManifest.xml:5:5-6:19
+MERGED from [androidx.core:core:1.3.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ae3468b444d41a56f261ecbb8448fe17\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ae3468b444d41a56f261ecbb8448fe17\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\67aa86ef8808cac41aa5afe6d271f3ea\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\67aa86ef8808cac41aa5afe6d271f3ea\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ae3468b444d41a56f261ecbb8448fe17\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:24:9-41
+	android:roundIcon
+		ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:25:9-54
+	android:icon
+		ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:27:9-40
+activity#com.example.mlapp.SplashActivity
+ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:28:9-33:20
+	android:name
+		ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:28:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:29:13-32:29
+action#android.intent.action.MAIN
+ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:31:27-74
+activity#com.example.mlapp.MainActivity
+ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:34:9-59
+	android:name
+		ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:34:19-47
+activity#com.example.mlapp.DetectorActivity
+ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:35:9-41:20
+	android:screenOrientation
+		ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:36:13-49
+	android:name
+		ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:35:19-51
+intent-filter#category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:37:13-39:29
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:38:17-87
+	android:name
+		ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:38:27-83
+activity#com.example.mlapp.CameraActivity
+ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:42:9-61
+	android:name
+		ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:42:19-49
+uses-sdk
+INJECTED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml
+INJECTED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\86e1e5d883ec66c1063a0d9a82a27792\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\86e1e5d883ec66c1063a0d9a82a27792\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\bf96d2b5a86ecd602a621e7e96856420\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\bf96d2b5a86ecd602a621e7e96856420\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\12c076570219bdc2a11e9d0df335391a\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\12c076570219bdc2a11e9d0df335391a\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ee9b51f71825564f346013ea1d4d0318\appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ee9b51f71825564f346013ea1d4d0318\appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\4c1ade53cc4b20d7bc631ac17d3bfca4\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\4c1ade53cc4b20d7bc631ac17d3bfca4\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ebc8011c39d26c440b76466a9b971345\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ebc8011c39d26c440b76466a9b971345\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2118a7099009bdd29f0289728ee82c0d\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\2118a7099009bdd29f0289728ee82c0d\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\f52c60a67eb4c2183a64b296ae574169\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\f52c60a67eb4c2183a64b296ae574169\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\32488318cfc756fa0f6ae91e625fa530\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\32488318cfc756fa0f6ae91e625fa530\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\0878a65179abd6a1b5016c6981bce614\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\0878a65179abd6a1b5016c6981bce614\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d1ea25f3382273eed14315b543469208\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\d1ea25f3382273eed14315b543469208\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ae3468b444d41a56f261ecbb8448fe17\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\ae3468b444d41a56f261ecbb8448fe17\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\7c0677be8011741026309ef690a9f4db\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\7c0677be8011741026309ef690a9f4db\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\67aa86ef8808cac41aa5afe6d271f3ea\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\67aa86ef8808cac41aa5afe6d271f3ea\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\098c479f6892902db16f6d5e04f3818b\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\098c479f6892902db16f6d5e04f3818b\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\8cf26fd0d5f767ad6dfe1019ab25b952\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\8cf26fd0d5f767ad6dfe1019ab25b952\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\86f8c8e32c7613bbe5e86eb4377e9413\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\86f8c8e32c7613bbe5e86eb4377e9413\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\bcf856ddfeb04b3b73ed182739910d39\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\bcf856ddfeb04b3b73ed182739910d39\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c6f1e76c078a7e4f5288325854cab247\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\c6f1e76c078a7e4f5288325854cab247\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\7282e00d74c6a6acf53f4bfd68421266\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\7282e00d74c6a6acf53f4bfd68421266\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\73114719268a97e9fd391905563b2ee9\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\HP\.gradle\caches\transforms-2\files-2.1\73114719268a97e9fd391905563b2ee9\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml
+INJECTED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml
+		ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml
+		INJECTED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml
+		ADDED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml
+		INJECTED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:2:1-45:12 reason: tensorflow.contrib.android has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from D:\FOOTSTEP-APP\app\src\main\AndroidManifest.xml:2:1-45:12 reason: tensorflow.contrib.android requested WRITE_EXTERNAL_STORAGE

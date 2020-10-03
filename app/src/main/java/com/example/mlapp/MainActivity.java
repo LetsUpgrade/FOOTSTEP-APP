@@ -99,7 +99,7 @@ public class MainActivity extends Activity   {
         {
             public void onClick(View v)
             {
-                startActivity(new Intent(getApplicationContext(),Objectdetection.class));
+                startActivity(new Intent(getApplicationContext(),DetectorActivity.class));
            /* if you want to finish the first activity then just call
             finish(); */
             }

@@ -1,0 +1,7 @@
+#Sat Oct 03 17:19:29 IST 2020
+base.0=D\:\\FOOTSTEP-APP\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\FOOTSTEP-APP\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
